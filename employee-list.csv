@@ -1,0 +1,17 @@
+"Biometric ID","First Name","Last Name",Phone,Email,Address,"Contact name","Contact phone","Contact email","Contact Address","Working Hours","PERA & ACA","RICE ALLOW.","Basic Salary","Late amount per minute","Salary Type (Daily,Monthy,Monthy Fixed)","COLA Amount","Cola Type (Per Day,Fixed)","Employee Level(Administrator,Supervisor,Encoder,Rank and File)","Bank Account Number","SSS Contribution","Phil Health Contribution","HMDF Contribution","GSIS Contribution","Company SSS Contribution","Company Phil Health Contribution","Company HMDF Contribution","Company GSIS Contribution"
+111111,Test,Admin,,,,,,,,8,0,0,500,10,0,20,,1,1111-1111-11,50,60,40,70,50,40,60,0
+123456,Muhammad,Ali,,,,,,,,8,0,0,50000,300,2,6000,,2,3214-3214-32,200,200,200,200,300,300,300,0
+897645,Miguelito,Bonares,,,,,,,,8,0,0,13000,0,2,0,0,4,1111,0,0,0,0,0,0,0,0
+123456,Terrence,Crawford,,,,,,,,7,0,0,80000,10,1,100,0,2,1234-567-89,300,300,10,100,500,500,10,0
+321564,"Gervonta ",Davis,,,,,,,,8,0,0,50000,10,2,6000,,1,3214-3214-32,100,100,100,100,200,200,200,0
+123,John,Doe,,,,,,,,8,0,0,13000,0,2,0,0,4,111111111111111,100,200,100,0,300,100,0,0
+111111,Demo,Helper,,,,,,,,8,1,1,13000,1,2,1,1,4,1234567890,100,100,100,100,1,1,1,1
+321654,Eddy,Reynoso,,,,,,,,8,0,0,50000,321,1,3000,,2,3216-6544-55,321,321,321,321,321,321,321,0
+123345,Jhonny,Shelby,,,,,,,,8,0,0,80000,100,1,1000,,2,1234-123-12,100,100,100,100,100,100,100,0
+123456,Thomas,Shelby,,,,,,,,7,0,0,40000,10,1,100,,1,1234-1234-12,100,100,100,100,100,100,100,0
+321654,Tommy,Shelby,,,,,,,,8,0,0,50000,0,1,200,200,3,123456,,,200,0,0,0,0,0
+321654,Tommy,Shelby,,,,,,,,8,0,0,50000,0,1,200,200,3,123456,,,200,0,0,0,0,0
+321321,Jhonny,Shelby,,,,,,,,8,0,0,15000,10,1,2000,,2,3213-3213-32,200,200,200,200,300,300,300,0
+123456,Shakur,Stevenson,,,,,,,,8,0,0,30000,10,2,1000,,3,1234-1234-12,100,100,100,100,200,200,200,0
+12324234,Myadmin,Userlastname,,,,,,,,8,1,1,1,1,1,1,0,1,000000,100,100,100,100,1,1,1,1
+1,z,z,,,,,,,,6,0,0,1,1,0,1,,4,1,1,1,1,1,1,1,1,0
